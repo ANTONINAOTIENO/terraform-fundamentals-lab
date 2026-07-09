@@ -13,8 +13,8 @@ The goal is to develop a solid understanding of Terraform's workflow, state mana
 | Project         | Topic                               | Status      |
 | --------------- | ----------------------------------- | ----------- |
 | ✅ Project 1     | Local Workspace Creator (Resources) | Complete    |
-| 🚧 Project 2    | Variables                           | In Progress |
-| ⏳ Project 3     | Outputs                             | Planned     |
+| ✅ Project 2    | Variables                           | In Progress |
+| 🚧 Project 3     | Outputs                             | Planned     |
 | ⏳ Project 4     | Functions & Expressions             | Planned     |
 | ⏳ Project 5     | Modules                             | Planned     |
 | ⏳ Final Project | Complete Terraform Lab              | Planned     |
